@@ -1,2 +1,3 @@
-# aplicacion_para_ver_el_tiempo_python
-Con esta aplicacion podremos ver el tiempo de tres ciudades diferentes.
+# Con esta aplicacion podremos ver el tiempo de la ciudad que queramos :)
+> [!WARNING]
+> Por el momento solo hay tres ciudades.
